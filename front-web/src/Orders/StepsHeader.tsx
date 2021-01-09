@@ -1,4 +1,4 @@
-function Navbar() {
+function StepsHeader() {
     return (
         <header className="orders-steps-container">
             <div className="orders-steps-content">
@@ -20,4 +20,4 @@ function Navbar() {
     )
 }
 
-export default Navbar;
+export default StepsHeader;
